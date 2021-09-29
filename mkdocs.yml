@@ -1,0 +1,12 @@
+site_name: Mk笔记本
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - 代码笔记: coding.md
+  - VUE笔记: vue.md
+  - HTML笔记: html.md
+  - JavaScript笔记: javaScript.md
+  - CSS笔记: css.md
+  - Node笔记: node.md
+
+theme: material
